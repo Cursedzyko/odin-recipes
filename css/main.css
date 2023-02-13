@@ -1,0 +1,11 @@
+.test {
+	color: red;
+	font-family:'Times New Roman', Times, serif;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.guacomole {
+	height: 400px;
+	width: 400px;
+}
